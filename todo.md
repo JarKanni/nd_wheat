@@ -17,5 +17,5 @@
 
 
 ### Report Findings
-- short Report with data collected, answering those two questions
-- [optional] spice up visuals for portfolio??
+- Report with data collected answering Questions
+- [optional] spice up visuals with graphics
