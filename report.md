@@ -5,11 +5,11 @@
 - Wheat production lowered since the 1990s due to disease and oppurtunites elsewhere (canola prices)
 	- Disease wrecked production, cutting it from around 3,000,000 acres down to roughly 1,000,000 acres planted
 		- FHB or scab: Fusarium Head Blight Disease
-			- (src) https://apsjournals.apsnet.org/doi/pdf/10.1094/PDIS-03-12-0291-FE
+			- [source](https://apsjournals.apsnet.org/doi/pdf/10.1094/PDIS-03-12-0291-FE)
 
 - Canola production on the rise
 	- poor soybean prices >> farmers move to canola
-    	- (src) https://www.grandforksherald.com/business/2018-a-record-year-for-canola-in-north-dakota
+    	- [source](https://www.grandforksherald.com/business/2018-a-record-year-for-canola-in-north-dakota)
 
 ![ND_wheat_graph.png](/ND_wheat_graph.png "North Dakota Wheat Production 1990-2024")
 
@@ -27,5 +27,6 @@
 	- Peas 270,000
 	- Sugarbeets 229,000
 	- Flaxseed 110,000
-		- (src) https://www.nass.usda.gov/Quick_Stats/Ag_Overview/stateOverview.php?state=NORTH%20DAKOTA
+		- [source](https://www.nass.usda.gov/Quick_Stats/Ag_Overview/stateOverview.php?state=NORTH%20DAKOTA)
+
 ![ND_crop_graph.png](/ND_crop_graph.png "North Dakota Crop Production by Type")
