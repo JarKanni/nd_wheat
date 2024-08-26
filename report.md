@@ -7,7 +7,9 @@
 		- FHB or scab: Fusarium Head Blight Disease
 			- (src) https://apsjournals.apsnet.org/doi/pdf/10.1094/PDIS-03-12-0291-FE
 	- Canola worth more to plant
-
+- Canola production on the rise
+	- poor soybean prices >> farmers move to canola
+	- https://www.grandforksherald.com/business/2018-a-record-year-for-canola-in-north-dakota
 
 #### What crops are mostly grown in North Dakota / Mountrail County today?
 - Top Crops:
