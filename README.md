@@ -1,6 +1,8 @@
 # North Dakota Wheat Production 1990-2024
 
-Purpose: To quell a personal curiosity.  
+Quick Report answering how North Dakota Wheat production has changed since 1990 and why.
+
+Purpose: To quell a pondering
 Line of Thought: Growing up in North Dakota, wheat fields were everywhere.  Now when I go, I see more and more canola or corn.  Why did that change, and by how much? 
 
 ### Questions
