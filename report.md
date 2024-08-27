@@ -9,7 +9,7 @@
 
 - Canola production on the rise
  	- poor soybean prices, so farmers move to canola
-    		- [source](https://www.grandforksherald.com/business/2018-a-record-year-for-canola-in-north-dakota)
+  		- [source](https://www.grandforksherald.com/business/2018-a-record-year-for-canola-in-north-dakota)
     	- 2022 record canola production, North Dakota leading the way
         	- ND (3.42 billion pounds), second place Washington (231.4 million pounds)
        		- [source](https://www.uscanola.com/news-views/usca-blog/record-u-s-canola-production-in-2022/)
