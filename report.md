@@ -10,16 +10,16 @@
 - Canola production on the rise
  	- poor soybean prices, so farmers move to canola
   		- [source](https://www.grandforksherald.com/business/2018-a-record-year-for-canola-in-north-dakota)
-    	- 2022 record canola production, North Dakota leading the way
-        	- ND (3.42 billion pounds), second place Washington (231.4 million pounds)
-       		- [source](https://www.uscanola.com/news-views/usca-blog/record-u-s-canola-production-in-2022/)
+    - 2022 record canola production, North Dakota leading the way
+      - ND (3.42 billion pounds), second place Washington (231.4 million pounds)
+      	- [source](https://www.uscanola.com/news-views/usca-blog/record-u-s-canola-production-in-2022/)
 
-![ND_wheat_graph.png](/ND_wheat_graph.png "North Dakota Wheat Production 1990-2024")
+![ND_wheat_graph.png](/ND_wheat_graph.png "North Dakota Wheat Production 1990-2024") 
 ![Canola_graph.png](https://www.uscanola.com/wp-content/uploads/2022/11/US-Planted-Harvested-Canola-Acres-1991-2022.png)
 
 
-#### What crops are mostly grown in North Dakota / Mountrail County today?
-- Top Crops:
+#### What crops are mostly grown in North Dakota today?
+- Top Crop: Wheat
 	- Wheat (6.6mil acres planted)
 	- Soybeans (6.2mil)
 	- Corn (4mil)
@@ -33,3 +33,7 @@
 		- [source](https://www.nass.usda.gov/Quick_Stats/Ag_Overview/stateOverview.php?state=NORTH%20DAKOTA)
 
 ![ND_crop_graph.png](/ND_crop_graph.png "North Dakota Crop Production by Type")
+
+
+
+
