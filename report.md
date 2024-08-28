@@ -23,8 +23,9 @@ $\hspace{15pt}$ Where wheat once stood strong, beautiful yellow flowers of canol
         	- ND (3.42 billion pounds), second place Washington (231.4 million pounds)
        		- [source 4](https://www.uscanola.com/news-views/usca-blog/record-u-s-canola-production-in-2022/)
 
-![ND_wheat_graph.png](/ND_wheat_graph.png "North Dakota Wheat Production 1990-2024")
-![Canola_graph.png](https://www.uscanola.com/wp-content/uploads/2022/11/US-Planted-Harvested-Canola-Acres-1991-2022.png)
+Wheat Production | Canola
+:---: | :---:
+![ND_wheat_graph.png](/ND_wheat_graph.png "North Dakota Wheat Production 1990-2024") | ![Canola_graph.png](https://www.uscanola.com/wp-content/uploads/2022/11/US-Planted-Harvested-Canola-Acres-1991-2022.png)
 
 
 #### What crops are mostly grown in North Dakota / Mountrail County today?
