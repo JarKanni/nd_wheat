@@ -11,11 +11,10 @@ X create chart (bar, line)
 
 ##### What crops are mostly grown in North Dakota / Mountrail County today?
 X find crop production in Mountrail County 2024ish
-- find map of crop production across state (crop types)
-- compile data on crop production into .csv
-- create chart (multi-bar, multi-line??)
+X compile data on crop production into .csv
+X create chart (multi-bar, horizontal)
 
 
 ### Report Findings
-- Report with data collected answering Questions
+X Report with data collected answering Questions
 - [optional] spice up visuals with graphics
