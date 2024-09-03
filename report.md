@@ -1,8 +1,10 @@
 # North Dakota Wheat Production 1990-2024
 
 
-$\hspace{15pt}$ Where wheat once stood strong, beautiful yellow flowers of canola now spread across the landscape of North Dakota. North Dakota's slowing wheat production since 1990[1] has made way for Canola to thrive.  A blight of scab, or Fusarium Head Blight Disease (FHB), sprang up in the early 1990s and again in the early 2000s, wiping out hundreds of thousands of acres across the state.[2]  To escape disease and find better opportunities, many farmers have turned to canola which is high on price with growing yields.[3]  In 2022, North Dakota hit a record high canola production, peaking at 3.42 billion pounds.[4] Today in 2024, canola holds 4th most produced crop in the state, beaten only by wheat, soybeans, and corn, repectively.[5]
-
+$\hspace{15pt}$ Where wheat once stood strong, beautiful yellow flowers of canola now spread across the landscape of North Dakota. North Dakota's slowing wheat production since 1990[1] has made way for Canola to thrive.  
+A blight of scab, or Fusarium Head Blight Disease (FHB), sprang up in the early 1990s and again in the early 2000s, wiping out hundreds of thousands of acres across the state.[2]  To escape disease and find better opportunities, many farmers have turned to canola which is high on price with growing yields.[3]  
+In 2022, North Dakota hit a record high canola production, peaking at 3.42 billion pounds.[4] Today in 2024, canola holds 4th most produced crop in the state, beaten only by wheat, soybeans, and corn, repectively.[5]
+Corn production rose since 1990 from around 2.6 million acres harvested to a peak of 3.5 million acres in 2007 before leveling off around 3.3 million.  So although it is more than the 90's, production has not continued to climb at any rate near canola.
 
 
 ---
