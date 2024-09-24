@@ -31,7 +31,8 @@ Although more corn is produced since than the 90's, production growth has levele
     	- 2022 record canola production, North Dakota leading the way
         	- ND (3.42 billion pounds), second place Washington (231.4 million pounds)
        		- [source 4](https://www.uscanola.com/news-views/usca-blog/record-u-s-canola-production-in-2022/)
-
+	- 1990 planted 160,000 acres; 2010 1.35 million, 2020 1.53 million
+		- [source 7](https://www.agweek.com/business/the-blooms-on-canola-this-spring)
 Wheat Production | Canola
 :---: | :---:
 ![ND_wheat_graph.png](/ND_wheat_graph.png "North Dakota Wheat Production 1990-2024") | ![Canola_graph.png](https://www.uscanola.com/wp-content/uploads/2022/11/US-Planted-Harvested-Canola-Acres-1991-2022.png)
