@@ -10,4 +10,4 @@ Purpose: To quell a pondering. Growing up in North Dakota, wheat fields were eve
 ### Questions
 1. How has wheat production changed since 1990, and why?
 
-2. Which crops are mostly grown in North Dakota / Mountrail County today?
+2. Which crops are mostly grown in North Dakota today?
