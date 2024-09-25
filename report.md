@@ -17,7 +17,7 @@ Although more corn is produced since than the 90's, production growth has levele
 ---
 
 
-## Outline
+## Notes
 #### How has wheat production changed since 1990, and why?
 - Wheat production lowered since the 1990s due to disease and oppurtunites elsewhere (canola prices) [1]
 	- Disease wrecked production, cutting it from around 3,000,000 acres down to roughly 1,000,000 acres planted
@@ -34,6 +34,8 @@ Wheat Production | Canola
 :---: | :---:
 ![ND_wheat_graph.png](/ND_wheat_graph.png "North Dakota Wheat Production 1990-2024") | ![Canola_graph.png](https://www.uscanola.com/wp-content/uploads/2022/11/US-Planted-Harvested-Canola-Acres-1991-2022.png)
 
+- [corn production graph](/corn_prod_graph.png "Corn Production from 1960s to 2020s")[6]
+
 
 #### Which crops are mostly grown in North Dakota today?
 - Top Crops: [5]
@@ -49,8 +51,6 @@ Wheat Production | Canola
 	- Flaxseed 110,000
 
 ![ND_crop_graph.png](/ND_crop_graph.png "North Dakota Crop Production by Type")
-
-![source 6](/corn_prod_graph.png "Corn Production from 1960s to 2020s")
 
 
 
