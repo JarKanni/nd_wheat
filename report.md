@@ -17,29 +17,26 @@ Although more corn is produced since than the 90's, production growth has levele
 ---
 
 
-## Questions
+## Outline
 #### How has wheat production changed since 1990, and why?
-- Wheat production lowered since the 1990s due to disease and oppurtunites elsewhere (canola prices)
-			- [source 1](https://www.ndwheat.com/uploads/1/ndallhistwhtacres.pdf)
+- Wheat production lowered since the 1990s due to disease and oppurtunites elsewhere (canola prices) [1]
 	- Disease wrecked production, cutting it from around 3,000,000 acres down to roughly 1,000,000 acres planted
-		- FHB or scab: Fusarium Head Blight Disease
-			- [source 2](https://apsjournals.apsnet.org/doi/pdf/10.1094/PDIS-03-12-0291-FE)
+		- FHB or scab: Fusarium Head Blight Disease [2]
 
 - Canola production on the rise
- 	- poor soybean prices, so farmers move to canola
-  		- [source 3](https://www.grandforksherald.com/business/2018-a-record-year-for-canola-in-north-dakota)
+ 	- poor soybean prices, so farmers move to canola [3]
     	- 2022 record canola production, North Dakota leading the way
-        	- ND (3.42 billion pounds), second place Washington (231.4 million pounds)
-       		- [source 4](https://www.uscanola.com/news-views/usca-blog/record-u-s-canola-production-in-2022/)
-	- 1990 planted 160,000 acres; 2010 1.35 million, 2020 1.53 million
-		- [source 7](https://www.agweek.com/business/the-blooms-on-canola-this-spring)
+        	- ND (3.42 billion pounds), second place Washington (231.4 million pounds) [4]
+	- 1990 planted 160,000 acres; 2010 1.35 million, 2020 1.53 million [7]
+
+
 Wheat Production | Canola
 :---: | :---:
 ![ND_wheat_graph.png](/ND_wheat_graph.png "North Dakota Wheat Production 1990-2024") | ![Canola_graph.png](https://www.uscanola.com/wp-content/uploads/2022/11/US-Planted-Harvested-Canola-Acres-1991-2022.png)
 
 
-#### What crops are mostly grown in North Dakota / Mountrail County today?
-- Top Crops:
+#### Which crops are mostly grown in North Dakota today?
+- Top Crops: [5]
 	- Wheat (6.6mil acres planted)
 	- Soybeans (6.2mil)
 	- Corn (4mil)
@@ -50,7 +47,6 @@ Wheat Production | Canola
 	- Peas 270,000
 	- Sugarbeets 229,000
 	- Flaxseed 110,000
-		- [source 5](https://www.nass.usda.gov/Quick_Stats/Ag_Overview/stateOverview.php?state=NORTH%20DAKOTA)
 
 ![ND_crop_graph.png](/ND_crop_graph.png "North Dakota Crop Production by Type")
 
@@ -58,3 +54,11 @@ Wheat Production | Canola
 
 
 
+## Sources
+[1](https://www.ndwheat.com/uploads/1/ndallhistwhtacres.pdf)
+[2](https://apsjournals.apsnet.org/doi/pdf/10.1094/PDIS-03-12-0291-FE)
+[3](https://www.grandforksherald.com/business/2018-a-record-year-for-canola-in-north-dakota)
+[4](https://www.uscanola.com/news-views/usca-blog/record-u-s-canola-production-in-2022/)
+[5](https://www.nass.usda.gov/Quick_Stats/Ag_Overview/stateOverview.php?state=NORTH%20DAKOTA)
+[6](https://www.indexmundi.com/agriculture/?country=us&commodity=corn&graph=production)
+[7](https://www.agweek.com/business/the-blooms-on-canola-this-spring)
